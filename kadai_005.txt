@@ -1,0 +1,12 @@
+takashiyoshida@TAKASHInoAir git_challenge % git add hello_world.txt
+takashiyoshida@TAKASHInoAir git_challenge % git commit -m "日本語訳を追記"
+[main (root-commit) 8fda3ae] 日本語訳を追記
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+takashiyoshida@TAKASHInoAir git_challenge % git add hello_world.txt
+takashiyoshida@TAKASHInoAir git_challenge % git commit -m "hello_world.txtを追加"
+[main 56e56ba] hello_world.txtを追加
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+takashiyoshida@TAKASHInoAir git_challenge % git log --oneline
+56e56ba (HEAD -> main) hello_world.txtを追加
+8fda3ae 日本語訳を追記
